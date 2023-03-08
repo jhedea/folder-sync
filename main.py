@@ -20,7 +20,7 @@ class Sync:
         self.node_list.append(node)
 
     def compare_nodes(self):
-        ''' This method takes the nodes in the node_list and compares them '''
+
         len(self.node_list)
 
         for node in self.node_list:
